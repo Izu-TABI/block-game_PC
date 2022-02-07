@@ -146,6 +146,7 @@ const loop = () => {
     })
 
     if(block.data.length === 0){
+        alert('congratulations');
         init();
     }
 
